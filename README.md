@@ -2,12 +2,12 @@
 
 I am Moonmoon Samal, a data science student at Masai School. This dataset was provided by Masai School for building a project on data analysis using SQL, Python, and Power BI.
 
-![Screenshot 2024-07-31 143731](https://github.com/user-attachments/assets/600a8097-0e04-4871-ba87-e458cf59c0eb)
-
-
 **About Project**
 
 End-to-end customer purchase behavior analysis and reporting system using SQL, Python, and PowerBI. This project will help you understand customer purchase patterns, key performance indicators, and generate insightful reports for business decision-making.
+
+![Screenshot 2024-07-31 143731](https://github.com/user-attachments/assets/600a8097-0e04-4871-ba87-e458cf59c0eb)
+
 
 **Problem Statement**
 
